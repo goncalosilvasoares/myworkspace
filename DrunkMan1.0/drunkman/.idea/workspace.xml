@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86006bf1-07be-49d8-80e5-74c790e35a6b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/.idea/libraries/lib1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/DrunkManCrash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/DrunkManCrash1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/B.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/Beer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/Benny.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/P.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/Pizza.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/R.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/Rolo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/Test/DrunkMan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/Test/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/Test/Sound.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/Test/gameObject/Beer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/Test/gameObject/GameObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/Test/gameObject/GameObjectFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/Test/gameObject/GameObjectType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/Test/gameObject/Pizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/Test/gfx/simplegfx/Grid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/Test/gfx/simplegfx/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/Test/grid/Grid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/Test/grid/GridColor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/Test/grid/GridDirection$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/Test/grid/GridDirection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/Test/grid/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/Test/grid/position/AbstractGridPosition$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/Test/grid/position/AbstractGridPosition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/Test/grid/position/GridPosition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/Test/player/Character.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/Test/player/PlayerFac$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/Test/player/PlayerFac.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/Test/player/PlayerPlayer1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/Test/player/PlayerPlayer2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/Test/walls/Walls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/Test/walls/WallsFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/mp.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/smw_game_over.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/DrunkManCrashESSE/DrunkManCrash1/out/production/DrunkManCrash1/wall.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1lL4dAyx7piDZlUV4pyxD8Wn0pv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86006bf1-07be-49d8-80e5-74c790e35a6b" name="Default Changelist" comment="" />
+      <created>1607363122584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607363122584</updated>
+      <workItem from="1607363123619" duration="34000" />
+      <workItem from="1607367410361" duration="1137000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
