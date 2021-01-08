@@ -1,0 +1,6 @@
+/home/goncalo/Documents/AC/PranksGuru/hackathonprankguru/PrankGuru_1.0_BackEnd/src/main/java/org/academiadecodigo/offstring/prankguru/models/PrankDto.java
+/home/goncalo/Documents/AC/PranksGuru/hackathonprankguru/PrankGuru_1.0_BackEnd/src/main/java/org/academiadecodigo/offstring/prankguru/models/Prank.java
+/home/goncalo/Documents/AC/PranksGuru/hackathonprankguru/PrankGuru_1.0_BackEnd/src/main/java/org/academiadecodigo/offstring/prankguru/services/PrankManager.java
+/home/goncalo/Documents/AC/PranksGuru/hackathonprankguru/PrankGuru_1.0_BackEnd/src/main/java/org/academiadecodigo/offstring/prankguru/models/ReviewDto.java
+/home/goncalo/Documents/AC/PranksGuru/hackathonprankguru/PrankGuru_1.0_BackEnd/src/main/java/org/academiadecodigo/offstring/prankguru/controllers/RestPrankController.java
+/home/goncalo/Documents/AC/PranksGuru/hackathonprankguru/PrankGuru_1.0_BackEnd/src/main/java/org/academiadecodigo/offstring/prankguru/models/Review.java

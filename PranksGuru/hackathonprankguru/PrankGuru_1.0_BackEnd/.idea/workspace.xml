@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7646a96c-8893-4074-8802-adaf3313b57d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../workspace/SpringFramework/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../workspace/Springmvc/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS/web-moderno/course/exercicios-js/fundamentos/numeros.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../apache-tomcat-8.5.60/logs/catalina.out" beforeDir="false" afterPath="$PROJECT_DIR$/../../../apache-tomcat-8.5.60/logs/catalina.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../apache-tomcat-8.5.60/webapps/javabank5.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../../apache-tomcat-8.5.60/webapps/javabank5.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../apache-tomcat-8.5.60/webapps/javabank5/META-INF/maven/org.academiadecodigo.javabank/javabank-step13-rest/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../apache-tomcat-8.5.60/webapps/javabank5/META-INF/maven/org.academiadecodigo.javabank/javabank-step13-rest/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../apache-tomcat-8.5.60/webapps/javabank5/WEB-INF/classes/javabank.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../apache-tomcat-8.5.60/webapps/javabank5/WEB-INF/classes/javabank.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../apache-tomcat-8.5.60/webapps/javabank5/WEB-INF/spring/persistence/persistence-prod.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../apache-tomcat-8.5.60/webapps/javabank5/WEB-INF/spring/persistence/persistence-prod.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../apache-tomcat-8.5.60/webapps/javabank5/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../apache-tomcat-8.5.60/webapps/javabank5/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/.idea/artifacts/AvengersGame_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/AvengersGame.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/src/main/java/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/src/main/java/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/src/main/java/Music.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/src/main/java/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/src/main/java/avengers/Avengers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/src/main/java/avengers/CaptainAmerica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/src/main/java/avengers/Hulk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/src/main/java/avengers/IronMan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/src/main/java/avengers/Thor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/src/main/java/enemies/Enemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/src/main/java/enemies/EnemyFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/src/main/java/enemies/Loki.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/src/main/java/enemies/Thanos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/src/main/java/enemies/Ultron.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/src/main/java/enemies/WinterSoldier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/src/main/resources/lose.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/src/main/resources/win.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/target/classes/Game$ChoiceFightHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/target/classes/Game$ChoiceHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/target/classes/Game$TitleScreenHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/target/classes/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/target/classes/Music.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/target/classes/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/target/classes/avengers/Avengers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/target/classes/avengers/CaptainAmerica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/target/classes/avengers/Hulk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/target/classes/avengers/IronMan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/target/classes/avengers/Thor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/target/classes/enemies/Enemy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/target/classes/enemies/EnemyFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/target/classes/enemies/Loki.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/target/classes/enemies/Thanos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/target/classes/enemies/Ultron.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/target/classes/enemies/WinterSoldier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/target/classes/lose.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/AvengersGame/target/classes/win.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/.idea/DrunkMan1.0.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/.idea/libraries/DrunkManCrash1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/DrunkManCrash1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/.idea/drunkman.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/B.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/Beer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/Benny.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/P.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/Pizza.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/R.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/Rolo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/Test/DrunkMan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/Test/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/Test/Sound.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/Test/gameObject/Beer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/Test/gameObject/GameObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/Test/gameObject/GameObjectFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/Test/gameObject/GameObjectType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/Test/gameObject/Pizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/Test/gfx/simplegfx/Grid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/Test/gfx/simplegfx/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/Test/grid/Grid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/Test/grid/GridColor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/Test/grid/GridDirection$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/Test/grid/GridDirection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/Test/grid/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/Test/grid/position/AbstractGridPosition$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/Test/grid/position/AbstractGridPosition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/Test/grid/position/GridPosition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/Test/player/Character.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/Test/player/PlayerFac$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/Test/player/PlayerFac.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/Test/player/PlayerPlayer1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/Test/player/PlayerPlayer2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/Test/walls/Walls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/Test/walls/WallsFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/mp.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/resources/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/smw_game_over.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/src/main/java/DrunkMan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/src/main/java/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/src/main/java/Sound.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/src/main/java/gameObject/Beer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/src/main/java/gameObject/GameObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/src/main/java/gameObject/GameObjectFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/src/main/java/gameObject/GameObjectType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/src/main/java/gameObject/Pizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/src/main/java/gfx/simplegfx/Grid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/src/main/java/gfx/simplegfx/Position.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/src/main/java/grid/Grid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/src/main/java/grid/GridColor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/src/main/java/grid/GridDirection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/src/main/java/grid/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/src/main/java/grid/position/AbstractGridPosition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/src/main/java/grid/position/GridPosition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/src/main/java/player/Character.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/src/main/java/player/PlayerFac.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/src/main/java/player/PlayerPlayer1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/src/main/java/player/PlayerPlayer2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/src/main/java/walls/Walls.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/src/main/java/walls/WallsFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/drunkman/wall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/org/academiadecodigo/simplegraphics/graphics/Canvas$CanvasComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/org/academiadecodigo/simplegraphics/graphics/Canvas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/org/academiadecodigo/simplegraphics/graphics/Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/org/academiadecodigo/simplegraphics/graphics/Colorable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/org/academiadecodigo/simplegraphics/graphics/Ellipse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/org/academiadecodigo/simplegraphics/graphics/Fillable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/org/academiadecodigo/simplegraphics/graphics/Line.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/org/academiadecodigo/simplegraphics/graphics/Movable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/org/academiadecodigo/simplegraphics/graphics/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/org/academiadecodigo/simplegraphics/graphics/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/org/academiadecodigo/simplegraphics/graphics/Text.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/org/academiadecodigo/simplegraphics/keyboard/Keyboard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/org/academiadecodigo/simplegraphics/keyboard/KeyboardEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/org/academiadecodigo/simplegraphics/keyboard/KeyboardEventType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/org/academiadecodigo/simplegraphics/keyboard/KeyboardHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/org/academiadecodigo/simplegraphics/mouse/Mouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/org/academiadecodigo/simplegraphics/mouse/MouseEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/org/academiadecodigo/simplegraphics/mouse/MouseEventType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/org/academiadecodigo/simplegraphics/mouse/MouseHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/org/academiadecodigo/simplegraphics/pictures/Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/org/academiadecodigo/simplegraphics/pictures/Picture.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/DrunkMan1.0/org/academiadecodigo/simplegraphics/test/Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/GonçaloProfile/assets/css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/GonçaloProfile/assets/css/media-queries.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/GonçaloProfile/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/GonçaloProfile/assets/img/backgrounds/juniorFullStack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/GonçaloProfile/assets/img/backgrounds/profileImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/GonçaloProfile/assets/img/backgrounds/skills.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/GonçaloProfile/assets/img/codeMan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/GonçaloProfile/assets/img/icon/@.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/GonçaloProfile/assets/img/icon/hackerrank.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/GonçaloProfile/assets/img/icon/linkedin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/GonçaloProfile/assets/img/icon/phone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/GonçaloProfile/assets/js/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/GonçaloProfile/assets/js/jquery-migrate-3.0.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/GonçaloProfile/assets/js/jquery.backstretch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/GonçaloProfile/assets/js/jquery.backstretch.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/GonçaloProfile/assets/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/GonçaloProfile/assets/js/waypoints.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/GonçaloProfile/assets/js/waypoints.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/GonçaloProfile/assets/js/wow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/GonçaloProfile/assets/js/wow.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/GonçaloProfile/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/artifacts/prankguru_step0_rest_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/artifacts/prankguru_step0_rest_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/libraries/Maven__com_fasterxml_classmate_1_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/libraries/Maven__javax_validation_validation_api_2_0_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_7_0_42.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/libraries/Maven__org_apache_tomcat_tomcat_api_7_0_42.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/libraries/Maven__org_apache_tomcat_tomcat_catalina_7_0_42.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_7_0_42.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/libraries/Maven__org_apache_tomcat_tomcat_servlet_api_7_0_42.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/libraries/Maven__org_apache_tomcat_tomcat_util_7_0_42.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/libraries/Maven__org_springframework_spring_aop_4_3_11_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/libraries/Maven__org_springframework_spring_beans_4_3_11_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/libraries/Maven__org_springframework_spring_context_4_3_11_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/libraries/Maven__org_springframework_spring_core_4_3_11_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/libraries/Maven__org_springframework_spring_expression_4_3_11_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_11_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/libraries/Maven__org_springframework_spring_orm_4_3_11_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/libraries/Maven__org_springframework_spring_test_4_3_11_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/libraries/Maven__org_springframework_spring_tx_4_3_11_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/libraries/Maven__org_springframework_spring_web_4_3_11_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_11_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/prankguru-step0-rest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/src/main/java/org/academiadecodigo/offstring/prankguru/controllers/RestPrankController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/src/main/java/org/academiadecodigo/offstring/prankguru/models/Prank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/src/main/java/org/academiadecodigo/offstring/prankguru/models/PrankDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/src/main/java/org/academiadecodigo/offstring/prankguru/models/Review.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/src/main/java/org/academiadecodigo/offstring/prankguru/models/ReviewDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/src/main/java/org/academiadecodigo/offstring/prankguru/services/PrankManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/src/main/webapp/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/src/main/webapp/WEB-INF/log4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/src/main/webapp/WEB-INF/spring/spring-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/PrankGuru.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/PrankGuru/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/PrankGuru/WEB-INF/classes/org/academiadecodigo/offstring/prankguru/controllers/RestPrankController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/PrankGuru/WEB-INF/classes/org/academiadecodigo/offstring/prankguru/models/Prank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/PrankGuru/WEB-INF/classes/org/academiadecodigo/offstring/prankguru/models/PrankDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/PrankGuru/WEB-INF/classes/org/academiadecodigo/offstring/prankguru/models/Review.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/PrankGuru/WEB-INF/classes/org/academiadecodigo/offstring/prankguru/models/ReviewDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/PrankGuru/WEB-INF/classes/org/academiadecodigo/offstring/prankguru/services/PrankManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/PrankGuru/WEB-INF/lib/classmate-1.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/PrankGuru/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/PrankGuru/WEB-INF/lib/hibernate-validator-6.0.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/PrankGuru/WEB-INF/lib/jackson-annotations-2.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/PrankGuru/WEB-INF/lib/jackson-core-2.9.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/PrankGuru/WEB-INF/lib/jackson-databind-2.9.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/PrankGuru/WEB-INF/lib/jaxb-api-2.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/PrankGuru/WEB-INF/lib/jboss-logging-3.3.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/PrankGuru/WEB-INF/lib/spring-aop-4.3.11.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/PrankGuru/WEB-INF/lib/spring-beans-4.3.11.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/PrankGuru/WEB-INF/lib/spring-context-4.3.11.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/PrankGuru/WEB-INF/lib/spring-core-4.3.11.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/PrankGuru/WEB-INF/lib/spring-expression-4.3.11.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/PrankGuru/WEB-INF/lib/spring-jdbc-4.3.11.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/PrankGuru/WEB-INF/lib/spring-orm-4.3.11.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/PrankGuru/WEB-INF/lib/spring-tx-4.3.11.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/PrankGuru/WEB-INF/lib/spring-web-4.3.11.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/PrankGuru/WEB-INF/lib/spring-webmvc-4.3.11.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/PrankGuru/WEB-INF/lib/validation-api-2.0.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/PrankGuru/WEB-INF/log4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/PrankGuru/WEB-INF/spring/spring-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/PrankGuru/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/classes/org/academiadecodigo/offstring/prankguru/controllers/RestPrankController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/classes/org/academiadecodigo/offstring/prankguru/models/Prank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/classes/org/academiadecodigo/offstring/prankguru/models/PrankDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/classes/org/academiadecodigo/offstring/prankguru/models/Review.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/classes/org/academiadecodigo/offstring/prankguru/models/ReviewDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/classes/org/academiadecodigo/offstring/prankguru/services/PrankManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_BackEnd/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_FrontEnd/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_FrontEnd/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_FrontEnd/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_FrontEnd/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_FrontEnd/img/test.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_FrontEnd/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_FrontEnd/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_FrontEnd/js/plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_FrontEnd/js/prank.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_FrontEnd/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_FrontEnd/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_FrontEnd/prank.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_FrontEnd/resources/add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_FrontEnd/resources/electricGum.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_FrontEnd/resources/farPrank.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_FrontEnd/resources/fartCan.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_FrontEnd/resources/fartMachine.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_FrontEnd/resources/magicTongue.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_FrontEnd/resources/mug.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_FrontEnd/resources/offStringsAudio.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_FrontEnd/resources/prank.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_FrontEnd/resources/pregnancyTests.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_FrontEnd/resources/stinkBombs.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_FrontEnd/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_FrontEnd/site.webmanifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/PrankGuru_1.0_FrontEnd/store.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/resources/GoogleDrive.url" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/teamDiscussions/db_template.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/teamDiscussions/groupMembers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myworkspace/hackathonprankguru/teamDiscussions/website.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/HibernateJPA/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../workspace/HibernateJPA/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/HibernateJPA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../workspace/HibernateJPA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/HibernateJPA/src/main/java/tablePerClass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../workspace/HibernateJPA/src/main/java/tablePerClass/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/HibernateJPA/target/classes/META-INF/test/java/org/academiadecodigo/javabank/controller/BalanceControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/HibernateJPA/target/classes/META-INF/test/java/org/academiadecodigo/javabank/controller/LoginControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/HibernateJPA/target/classes/META-INF/test/java/org/academiadecodigo/javabank/controller/MainControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/HibernateJPA/target/classes/META-INF/test/java/org/academiadecodigo/javabank/controller/NewAccountControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/HibernateJPA/target/classes/META-INF/test/java/org/academiadecodigo/javabank/controller/transaction/DepositControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/HibernateJPA/target/classes/META-INF/test/java/org/academiadecodigo/javabank/controller/transaction/WithdrawalControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/HibernateJPA/target/classes/META-INF/test/java/org/academiadecodigo/javabank/model/account/CheckingAccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/HibernateJPA/target/classes/META-INF/test/java/org/academiadecodigo/javabank/model/account/SavingsAccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/HibernateJPA/target/classes/META-INF/test/java/org/academiadecodigo/javabank/services/AccountServiceImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/HibernateJPA/target/classes/META-INF/test/java/org/academiadecodigo/javabank/services/AuthServiceImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/HibernateJPA/target/classes/META-INF/test/java/org/academiadecodigo/javabank/services/CustomerServiceImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/HibernateJPA/target/classes/META-INF/test/java/org/academiadecodigo/javabank/view/AccountTransactionViewTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/HibernateJPA/target/classes/META-INF/test/java/org/academiadecodigo/javabank/view/BalanceViewTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/HibernateJPA/target/classes/META-INF/test/java/org/academiadecodigo/javabank/view/LoginViewTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/HibernateJPA/target/classes/META-INF/test/java/org/academiadecodigo/javabank/view/MainViewTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/HibernateJPA/target/classes/META-INF/test/java/org/academiadecodigo/javabank/view/NewAccountControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/HibernateJPA/target/classes/tablePerClass/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../workspace/HibernateJPA/target/classes/tablePerClass/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/JSON/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../workspace/JSON/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/SandBox/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../workspace/SandBox/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/SpringAop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../workspace/SpringAop/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/SpringFramework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../workspace/SpringFramework/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/Springmvc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../workspace/Springmvc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/javabank/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../workspace/javabank/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/javabank/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../workspace/javabank/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/javabank/javabank-step4.5-tests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../workspace/javabank/javabank-step4.5-tests.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/javabank/src/main/resources/javabank.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../workspace/javabank/src/main/resources/javabank.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/javabank/src/main/webapp/WEB-INF/spring/persistence/persistence-prod.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../workspace/javabank/src/main/webapp/WEB-INF/spring/persistence/persistence-prod.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/javabank/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../workspace/javabank/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/javabank/target/Java Bank.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../../workspace/javabank/target/Java Bank.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/javabank/target/Java Bank/WEB-INF/classes/javabank.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../workspace/javabank/target/Java Bank/WEB-INF/classes/javabank.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/javabank/target/Java Bank/WEB-INF/spring/persistence/persistence-prod.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../workspace/javabank/target/Java Bank/WEB-INF/spring/persistence/persistence-prod.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/javabank/target/Java Bank/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../workspace/javabank/target/Java Bank/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/javabank/target/classes/javabank.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../workspace/javabank/target/classes/javabank.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/javabank/target/classes/org/academiadecodigo/javabank/controller/rest/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/javabank/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../workspace/javabank/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/prompt-jdbc/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../workspace/prompt-jdbc/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/prompt-jdbc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../workspace/prompt-jdbc/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1lnV5mX4yXmxLf6yswemPIp5C4m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../workspace/SandBox" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7646a96c-8893-4074-8802-adaf3313b57d" name="Default Changelist" comment="" />
+      <created>1608232660914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608232660914</updated>
+      <workItem from="1608232662002" duration="643000" />
+      <workItem from="1608238112857" duration="31000" />
+      <workItem from="1608238152728" duration="8801000" />
+      <workItem from="1608281013758" duration="686000" />
+      <workItem from="1608503150677" duration="11000" />
+      <workItem from="1608503172403" duration="54000" />
+      <workItem from="1609871224419" duration="33000" />
+      <workItem from="1609881467033" duration="3546000" />
+      <workItem from="1609929928917" duration="1540000" />
+      <workItem from="1610052521835" duration="634000" />
+      <workItem from="1610111834423" duration="727000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="742" y="310" width="426" height="493" key="FileChooserDialogImpl" timestamp="1609871255895">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="742" y="310" width="426" height="493" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1609871255895" />
+  </component>
+</project>
