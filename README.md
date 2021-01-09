@@ -64,8 +64,8 @@
 
 <p align="left">
 <a href="https://github.com/goncalosilvasoares">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=goncalosilvasoares&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=goncalosilvasoares&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
 
