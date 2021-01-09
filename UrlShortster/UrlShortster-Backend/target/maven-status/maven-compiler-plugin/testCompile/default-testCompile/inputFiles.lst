@@ -1,7 +1,0 @@
-/home/goncalo/Documents/AC/myProjects/UrlShortster/UrlShortster-Backend/src/test/java/org/urlShortster/persistence/jpa/JpaUrlDaoTest.java
-/home/goncalo/Documents/AC/myProjects/UrlShortster/UrlShortster-Backend/src/test/java/org/urlShortster/persistence/model/UrlTest.java
-/home/goncalo/Documents/AC/myProjects/UrlShortster/UrlShortster-Backend/src/test/java/org/urlShortster/converters/UrlToUrlDtoTest.java
-/home/goncalo/Documents/AC/myProjects/UrlShortster/UrlShortster-Backend/src/test/java/org/urlShortster/factories/UrlFactoryTest.java
-/home/goncalo/Documents/AC/myProjects/UrlShortster/UrlShortster-Backend/src/test/java/org/urlShortster/converters/UrlDtoToUrlTest.java
-/home/goncalo/Documents/AC/myProjects/UrlShortster/UrlShortster-Backend/src/test/java/org/urlShortster/controller/RestUrlControllerTest.java
-/home/goncalo/Documents/AC/myProjects/UrlShortster/UrlShortster-Backend/src/test/java/org/urlShortster/services/UrlServiceTest.java
