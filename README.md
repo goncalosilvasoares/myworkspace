@@ -1,5 +1,5 @@
 
-<img src="https://www.avisto.com/wp-content/uploads/2019/09/full-stack-developer.jpg" height="300" align="center" />
+#         Hey, I'm Jonathan 👋
 
 <img src="http://i.imgur.com/qjeYbqX.png" style="margin:50px 0px" width="300" align="right"  alt="iron man" />
 
