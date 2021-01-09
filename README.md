@@ -1,4 +1,4 @@
-<img src="http://i.imgur.com/qjeYbqX.png" width="300" align="right"  alt="iron man" />
+<img src="http://i.imgur.com/qjeYbqX.png" style="margin:50px 0px" width="300" align="right"  alt="iron man" />
 
 <h3 align="left">
  <abc>
