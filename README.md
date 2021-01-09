@@ -1,5 +1,5 @@
 
-#         Hello, I am < CodeMan > 👋
+#         Hello, I am < CodeMan > 💻 👋
 
 <img src="http://i.imgur.com/qjeYbqX.png" style="margin:50px 0px" width="250" align="right"  alt="iron man" />
 
@@ -10,8 +10,8 @@
 - :trophy: Java Certificate @ HackerRank
 - :trophy: Complete Javascript Certificate @ Udemy 
 - :zap: Fun fact: I love play FIFA and love my 4 dogs!
-- :mailbox: Reach out to me at my social media handles: 
 
+### 🤝🏻 &nbsp;Connect with Me
 [![Linkedin Badge](https://img.shields.io/badge/-goncalosilvasoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/goncalosilvasoares/)](https://www.linkedin.com/in/goncalosilvasoares/) [![HackerRank](https://img.shields.io/badge/-goncalosoares_-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/goncalosoares_)
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://www.goncalosoares.pt) [![Gmail](https://img.shields.io/badge/-goncalosoares-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:goncalo.silva.soares@sapo.pt)
 
@@ -45,11 +45,11 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
 ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
+![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 -->
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
