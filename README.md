@@ -1,10 +1,9 @@
-
-<div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨, I am <CodeMan/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-</div>
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
+<img src="
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.avisto.com%2Fen%2Ffull-stack-developer%2F&psig=AOvVaw2urWk5u2hlBWb_bR0gBltK&ust=1610239336996000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiirpTPje4CFQAAAAAdAAAAABAD
+"align="center"/>
 <img src="http://i.imgur.com/qjeYbqX.png" style="margin:50px 0px" width="300" align="right"  alt="iron man" />
 
 <h3 align="left">
