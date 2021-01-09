@@ -1,5 +1,5 @@
 
-<img src="https://www.avisto.com/wp-content/uploads/2019/09/full-stack-developer.jpg" align="center"/>
+<img src="https://www.avisto.com/wp-content/uploads/2019/09/full-stack-developer.jpg" height="50" align="center"/>
 
 <img src="http://i.imgur.com/qjeYbqX.png" style="margin:50px 0px" width="300" align="right"  alt="iron man" />
 
