@@ -1,0 +1,7 @@
+org/urlShortster/converters/UrlToUrlDtoTest.class
+org/urlShortster/persistence/jpa/JpaUrlDaoTest.class
+org/urlShortster/controller/RestUrlControllerTest.class
+org/urlShortster/converters/UrlDtoToUrlTest.class
+org/urlShortster/services/UrlServiceTest.class
+org/urlShortster/factories/UrlFactoryTest.class
+org/urlShortster/persistence/model/UrlTest.class
