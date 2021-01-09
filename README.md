@@ -1,7 +1,9 @@
 
-#         Hello, I am < CodeMan > 💻 👋
+#         Hello, I am < CodeMan > 👋
 
 <img src="http://i.imgur.com/qjeYbqX.png" style="margin:50px 0px" width="250" align="right"  alt="iron man" />
+
+### 👨🏻‍💻 &nbsp;About Me
 
 - :telescope: I'm currently exploring Angular and React :alien:
 - :microscope: Always ready to collaborate for Dev Experiments
