@@ -2,7 +2,7 @@
 #         Hello, I am < CodeMan > 👋
 
 <img src="http://i.imgur.com/qjeYbqX.png" style="margin:50px 0px" width="300" align="right"  alt="iron man" />
-
+<br>
 - :telescope: I'm currently exploring Angular and React :alien:
 - :microscope: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
@@ -35,6 +35,8 @@
 <code><img height="40" src=""></code>
 <code><img height="40" src=""></code>
 -->
+<br>
+<br>
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
@@ -59,7 +61,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="right">
 <a href="https://github.com/goncalosilvasoares">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&exclude_lang=java+r&theme=vue-dark" />
@@ -69,6 +71,6 @@
 <h3 align="left">
  <abc>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
  </abc>
 </h3> 
