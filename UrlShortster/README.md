@@ -24,7 +24,7 @@ This project was created with:
 * REST API.
 * Hibernate.
 * Mockito.
-*jUnit
+* jUnit
 ```
 ## Tools
 ```
@@ -51,3 +51,4 @@ $ mvn tomcat7:deploy
 ```
 * Open file index.html and use the WebApp.
 ## Enjoy
+
