@@ -2,7 +2,7 @@
 #         Hello, I am < CodeMan > 👋
 
 <img src="http://i.imgur.com/qjeYbqX.png" style="margin:50px 0px" width="300" align="right"  alt="iron man" />
-<br>
+
 - :telescope: I'm currently exploring Angular and React :alien:
 - :microscope: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
@@ -10,9 +10,11 @@
 - :trophy: Java Certificate @ HackerRank
 - :trophy: Complete Javascript Certificate @ Udemy 
 - :zap: Fun fact: I love play FIFA and love my 4 dogs!
-- :mailbox: Reach out to me at my social media handles: <br>
+- :mailbox: Reach out to me at my social media handles: 
+
 [![Linkedin Badge](https://img.shields.io/badge/-goncalosilvasoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/goncalosilvasoares/)](https://www.linkedin.com/in/goncalosilvasoares/) [![HackerRank](https://img.shields.io/badge/-goncalosoares_-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/goncalosoares_)
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://www.goncalosoares.pt) [![Gmail](https://img.shields.io/badge/-goncalosoares-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:goncalo.silva.soares@sapo.pt)
+
 <!--
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -35,8 +37,7 @@
 <code><img height="40" src=""></code>
 <code><img height="40" src=""></code>
 -->
-<br>
-<br>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
@@ -61,7 +62,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="right">
+<p align="left">
 <a href="https://github.com/goncalosilvasoares">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&exclude_lang=java+r&theme=vue-dark" />
