@@ -17,6 +17,6 @@
 - :trophy: Complete Javascript certificate @ Udemy 
 - :zap: Fun fact: I love play FIFA and love my 4 dogs!
 - :mailbox: Reach out to me at my social media handles: <br>
-[![Linkedin Badge](https://img.shields.io/badge/-goncalosilvasoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/goncalosilvasoares/)](https://www.linkedin.com/in/goncalosilvasoares/) [![Hackerrank Badge](<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>)](https://www.hackerrank.com/goncalosoares_) 
+[![Linkedin Badge](https://img.shields.io/badge/-goncalosilvasoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/goncalosilvasoares/)](https://www.linkedin.com/in/goncalosilvasoares/) [![Hackerrank Badge](https://img.shields.io/badge/<Profile>-<Hackerrank>-<brightgreen>)](https://www.hackerrank.com/goncalosoares_) 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://www.goncalosoares.pt)
 
