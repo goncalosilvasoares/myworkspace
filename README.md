@@ -18,5 +18,5 @@
 - :zap: Fun fact: I love play FIFA and love my 4 dogs!
 - :mailbox: Reach out to me at my social media handles: <br>
 [![Linkedin Badge](https://img.shields.io/badge/-goncalosilvasoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/goncalosilvasoares/)](https://www.linkedin.com/in/goncalosilvasoares/) [![Hackerrank Badge](<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>)](https://www.hackerrank.com/goncalosoares_) 
-[![Website](https://binder.pangeo.io/badge_logo.svg)](http://www.goncalosoares.pt)
-[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/Naereen/badges/master)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://www.goncalosoares.pt)
+
