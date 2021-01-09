@@ -16,7 +16,7 @@
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 - :trophy: Junior Full-Stack Developer @ <Academia de Código_>
 - :trophy: Java Certificate @ HackerRank
-- :trophy: Complete Javascript certificate @ Udemy 
+- :trophy: Complete Javascript Certificate @ Udemy 
 - :zap: Fun fact: I love play FIFA and love my 4 dogs!
 - :mailbox: Reach out to me at my social media handles: <br>
 [![Linkedin Badge](https://img.shields.io/badge/-goncalosilvasoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/goncalosilvasoares/)](https://www.linkedin.com/in/goncalosilvasoares/) [![Hackerrank Badge](https://img.shields.io/badge/Profile-Hackerrank-brightgreen)](https://www.hackerrank.com/goncalosoares_) 
