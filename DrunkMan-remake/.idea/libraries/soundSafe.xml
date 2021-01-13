@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="soundSafe">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/soundSafe.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
