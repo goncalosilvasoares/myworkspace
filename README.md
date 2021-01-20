@@ -9,8 +9,10 @@
 - :microscope: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 - :trophy: Junior Full-Stack Developer @ <Academia de Código_>
-- :trophy: Java Certificate @ HackerRank
+- :trophy: Java Complete 2020 OOP Certificate @ HackerRank
 - :trophy: Complete Javascript Certificate @ Udemy 
+- :trophy: Java Certificate @ HackerRank
+- :trophy: Introduction to SWIFT for iOS @ Universidade de Aveiro 
 - :zap: Fun fact: I love play FIFA and love my 4 dogs!
 
 ### 🤝🏻 &nbsp;Connect with Me
