@@ -5,7 +5,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- :telescope: I'm currently exploring Angular and React :alien:
+- :telescope: I'm currently exploring Flutter :alien:
 - :microscope: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 - :trophy: Junior Full-Stack Developer @ <Academia de Código_>
