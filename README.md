@@ -8,6 +8,7 @@
 - :telescope: I'm currently exploring Flutter :alien:
 - :microscope: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
+- :trophy: Flutter for Mobile and Web Apps @ Udemy
 - :trophy: Junior Full-Stack Developer @ <Academia de Código_>
 - :trophy: Java Complete 2020 OOP Certificate @ Udemy
 - :trophy: Complete Javascript Certificate @ Udemy 
