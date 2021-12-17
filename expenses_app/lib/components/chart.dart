@@ -21,8 +21,6 @@ class Chart extends StatelessWidget {
               r.date.year == weekDay.year
           ? totalSum += r.value
           : null);
-      print(totalSum);
-      print('testest');
       return {
         'day': DateFormat.E().format(weekDay)[0],
         'value': totalSum,
